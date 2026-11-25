@@ -1,0 +1,6 @@
+{
+  "name": "ClearWindow",
+  "description": "Urban air quality app that helps people decide when to go outside.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
